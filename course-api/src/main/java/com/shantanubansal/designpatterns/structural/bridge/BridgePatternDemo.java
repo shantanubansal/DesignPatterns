@@ -1,7 +1,5 @@
 package com.shantanubansal.designpatterns.structural.bridge;
 
-import com.shantanubansal.designpatterns.creational.factory.Green;
-
 public class BridgePatternDemo {
 
 	public static void main(String[] args) {
